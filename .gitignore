@@ -1,0 +1,31 @@
+# Root gitignore for Local Hero project
+
+# Maven binaries and builds
+maven_bin/
+localhero-backend/target/
+localhero-backend/.lazyheaders
+localhero-backend/*.log
+
+# Node dependencies and builds
+localhero/node_modules/
+localhero/build/
+localhero/npm-debug.log*
+localhero/yarn-debug.log*
+localhero/yarn-error.log*
+
+# Environment files
+localhero/.env.local
+localhero/.env.development.local
+localhero/.env.test.local
+localhero/.env.production.local
+
+# Editor directories and files
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+.DS_Store
+Thumbs.db
