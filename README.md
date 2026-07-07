@@ -256,8 +256,7 @@ Manoj Rajivee
 
 Full Stack Developer
 
-LinkedIn: https://www.linkedin.com/in/manoj-rajivee-31bba13a3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-
+LinkedIn: www.linkedin.com/in/manojrajivee
 GitHub: https://github.com/Manojrajivee
 
 ---
